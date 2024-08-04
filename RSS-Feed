@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Your Podcast Title</title>
+    <link>https://username.github.io/repositoryname</link>
+    <description>Your podcast description goes here.</description>
+    <language>en-us</language>
+    <copyright>2024 Your Name</copyright>
+    <itunes:author>Your Name</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://username.github.io/repositoryname/path/to/coverimage.jpg" />
+    <itunes:category text="Technology" />
+    <itunes:owner>
+      <itunes:name>Your Name</itunes:name>
+      <itunes:email>you@example.com</itunes:email>
+    </itunes:owner>
+
+    <item>
+      <title>Episode 1 Title</title>
+      <description>Episode 1 description goes here.</description>
+      <pubDate>Sun, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <enclosure url="https://username.github.io/repositoryname/path/to/episode1.mp3" length="12345678" type="audio/mpeg" />
+      <guid>https://username.github.io/repositoryname/path/to/episode1.mp3</guid>
+      <itunes:duration>10:00</itunes:duration>
+    </item>
+
+    <!-- Weitere Episoden hier hinzufügen -->
+
+  </channel>
+</rss>
