@@ -22,6 +22,7 @@
 
     <item>
       <title>Bitcoin, Memes und mehr Vorstellung</title>
+      <episode>0</episode>
       <description>Hallo und herzlich willkommen zur ersten Ausgabe.</description>
       <enclosure url="https://bitcoinmundm.github.io/Podcast/Podcast Intro (Folge0).mp3" type="audio/mpeg" length="1178176" />
       <pubDate>Sun, 04 Aug 2024 20:00:00 +0100</pubDate>
@@ -29,5 +30,15 @@
       <itunes:duration>00:01:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
+
+       <item>
+      <title>Alles ist ein Meme</title>
+      <episode>1</episode>
+      <description>Hier wird erklärt, was ein Meme ist und wie es entsteht.</description>
+      <enclosure url="https://bitcoinmundm.github.io/Podcast/Podcast Folge 1.mp3" type="audio/mpeg" length="20127496" />
+      <pubDate>Sun, 04 Aug 2024 22:00:00 +0100</pubDate>
+      <itunes:author>Bitcoinmundm</itunes:author>
+      <itunes:duration>00:27:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
-</rss>
