@@ -31,7 +31,7 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
 
-       <item>
+    <item>
       <title>Alles ist ein Meme</title>
       <episode>1</episode>
       <description>Hier wird erklärt, was ein Meme ist und wie es entsteht.</description>
@@ -42,3 +42,4 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
+</rss>
