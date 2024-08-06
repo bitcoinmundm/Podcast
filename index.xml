@@ -4,7 +4,7 @@
      xmlns:spotify="http://www.spotify.com/ns/rss"
      version="2.0">
   <channel>
-    <title>Mein neuer Podcast</title>
+    <title>Bitcoin M und M</title>
     <link>https://bitcoinmundm.github.io/Podcast/</link>
     <language>de-DE</language>
     <description>Bitcoin und Memecoins in einem Podcast... Endlich!.</description>
