@@ -4,17 +4,17 @@
      xmlns:spotify="http://www.spotify.com/ns/rss"
      version="2.0">
   <channel>
-    <title>Bitcoin M und M</title>
+    <title>BitKultur</title>
     <link>https://bitcoinmundm.github.io/Podcast/</link>
     <language>de-DE</language>
-    <description>Bitcoin und Memecoins in einem Podcast... Endlich!.</description>
-    <itunes:author>Bitcoinmundm</itunes:author>
+    <description>Bitcoin, Memes und Kultur in einem Podcast... Endlich!.</description>
+    <itunes:author>BitKultur</itunes:author>
     <itunes:owner>
-      <itunes:name>Bitcoinmundm</itunes:name>
+      <itunes:name>BitKultur</itunes:name>
       <itunes:email>bitcoinmundm@proton.me</itunes:email>
     </itunes:owner>
     <googleplay:owner>bitcoinmundm@proton.me</googleplay:owner>
-    <googleplay:author>Bitcoinmundm</googleplay:author>
+    <googleplay:author>Bitkultur</googleplay:author>
     <spotify:countryOfOrigin>DE</spotify:countryOfOrigin>
     <itunes:image href="https://bitcoinmundm.github.io/Podcast/Thumbnail2.jpg" />
     <googleplay:image href="https://bitcoinmundm.github.io/Podcast/Thumbnail2.jpg" />
@@ -26,7 +26,7 @@
       <description>Hier wird erklärt, was ein Meme ist und wie es entsteht.</description>
       <enclosure url="https://bitcoinmundm.github.io/Podcast/Podcast Folge 1.mp3" type="audio/mpeg" length="20127496" />
       <pubDate>Sun, 04 Aug 2024 22:00:00 +0100</pubDate>
-      <itunes:author>Bitcoinmundm</itunes:author>
+      <itunes:author>BitKultur</itunes:author>
       <itunes:duration>00:27:41</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
@@ -37,7 +37,7 @@
       <description>Hallo und herzlich willkommen zur ersten Ausgabe.</description>
       <enclosure url="https://bitcoinmundm.github.io/Podcast/Podcast Intro (Folge0).mp3" type="audio/mpeg" length="1178176" />
       <pubDate>Thu, 01 Aug 2024 20:00:00 +0100</pubDate>
-      <itunes:author>Bitcoinmundm</itunes:author>
+      <itunes:author>BitKultur</itunes:author>
       <itunes:duration>00:01:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
